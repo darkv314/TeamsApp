@@ -1,4 +1,4 @@
-from teams_app.model.quiz import Quiz
+from app.model.quiz import Quiz
 
 
 class QuizUIMenu(object):

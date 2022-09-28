@@ -1,4 +1,4 @@
-from teams_app.menu import Menu
+from app.menu import Menu
 
 def run():
     menu = Menu()

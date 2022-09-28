@@ -1,4 +1,4 @@
-from teams_app.console.meeting_ui_handler import *
+from app.console.meeting_ui_handler import *
 
 
 class Menu(object):

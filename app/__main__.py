@@ -1,4 +1,4 @@
-from teams_app import data
+from app import data
 
 
 def main():

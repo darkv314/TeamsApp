@@ -2,9 +2,9 @@ import os
 import re
 from datetime import datetime as dt, timedelta
 import json
-from teams_app.model.meet import Meet
+from app.model.meet import Meet
 
-DIR_PATH = '/Coding/Jala/Python/teams_app/attendance_reports'
+DIR_PATH = '/Coding/Jala/Python/teams_app/app/attendance_reports'
 MEETING_TITLE = "Meeting Title"
 TOTAL_NUMBER_PARTICIPANTS = "Total Number of Participants"
 FULL_NAME = "Full Name"
